@@ -1,0 +1,8 @@
+Data Structures,2735,5,online,MWF
+Calculus,1070,4,in-person,MTWF
+Personal Finance,1070,3,online,TBD
+Health Ethics,2080,3,async,TR
+Databases,3710,3,in-person,MWF
+Karate,2400,3,in-person,TR
+Macro Economics,2020,3,sync,TW
+How Things Work,1010,3,async,WF

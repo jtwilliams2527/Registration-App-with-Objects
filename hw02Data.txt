@@ -1,0 +1,97 @@
+Michael West
+900753
+2003
+TruE
+Art Appreciation,1090,3,sync,T
+Data Structures,2735,5,online,MWF
+Calculus,1070,4,in-person,MTWF
+Personal Finance,1070,3,online,TBD
+Health Ethics,2080,3,async,TR
+
+Festus Park
+900846
+2000
+False
+Art Appreciation,1090,3,sync,T
+Intro to CS,1724,4,in-person,MWTF
+Statistics,2010,3,Online,MWF
+Personal Finance,1070,3,online,TBD
+Africa and the World,2090,3,sync,WF
+
+Ahmed Nord
+900963
+2004
+true
+Intro to Philosophy,1070,3,online,TR
+Data Structures,2735,5,online,MWF
+Intro to Tennis,1000,3,in-person,MWF
+Personal Finance,1070,3,online,TBD
+Health Ethics,2080,3,async,TR
+
+Tasha Ohlder
+900102
+1994
+true
+Intro to Sociology,1010,3,async,MW
+Data Structures,2735,5,online,MWF
+Statistics,2020,4,online,MWRF
+Personal Finance,1070,3,online,TBD
+Intro to Theology,1080,3,async,WF
+
+Earl Mint
+900159
+2003
+false
+Calculus,1070,4,online,MTWF
+Intro to CS,1724,4,in-person,MWTF
+Personal Finance,1070,3,online,TBD
+Health Ethics,2080,3,async,TR
+English Composition,2010,3,online,MWF
+
+Katie Easton
+900951
+2000
+false
+Discrete Structs,2550,3,online,TR
+Intro to CS,1724,4,in-person,MWTF
+Intro to Karate,1040,3,in-person,MWF
+Personal Finance,1070,3,online,TBD
+Health Ethics,2080,3,async,TR
+
+Kennedy Dotson
+900237
+1999
+True
+Intro to Philosophy,1070,3,online,TR
+Data Structures,2735,5,online,MWF
+Intro to Data Science,1070,4,in-person,MWF
+Personal Finance,1070,3,online,TBD
+
+Nick Peoples
+900856
+2001
+False
+Intro to Sociology,1010,3,online,MW
+Intro to CS,1724,4,in-person,MWTF
+Intro to Tennis,1000,3,in-person,MWF
+Personal Finance,1070,3,online,TBD
+
+Olivia Priest
+900123
+1999
+True
+Intro to Philosophy,1070,3,online,TR
+Data Structures,2735,5,online,MWF
+Intro to Data Science,1070,4,in-person,MWF
+Macro Economics,2020,3,sync,TW
+Personal Finance,1070,3,online,TBD
+
+Rashad Black
+900456
+2001
+False
+Intro to Sociology,1010,3,online,MW
+Intro to CS,1724,4,in-person,MWTF
+Intro to Tennis,1000,3,in-person,MWF
+Personal Finance,1070,3,online,TBD
+How Things Work,1010,3,async,WF
